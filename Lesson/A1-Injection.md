@@ -185,4 +185,4 @@ It's worth noting that this is a very watered-down example of blind injection. O
 
 ### Finally
 Really, all you need to do is be creative. SQL Injection opens up a world of different things you can do to the host. There are hundreds of ways to leverage a simple injection exploit, and we can't cover them all here.
-So, never have them, because as you can see, it could lead to a complete compromise before you know it.
+So, never have them, because as you can see, it could lead to a complete compromise before you know it!
